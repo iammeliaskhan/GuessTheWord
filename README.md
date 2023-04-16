@@ -31,6 +31,6 @@ Some potential areas for improvement in Guess The Word include:
 - Adding a feature to allow players to input their own words to guess
 
 ## Contributing
-Contributions to **Guess The Word** are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository. If you would like to contribute code, please fork the repository and submit a pull request with your changes.
+Contributions are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository. If you would like to contribute code, please fork the repository and submit a pull request with your changes.
 ## Credits
 Guess The Word was developed by Elias Khan as a personal project. The list of pre-defined words was sourced from various online sources.
