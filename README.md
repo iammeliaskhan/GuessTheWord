@@ -15,8 +15,8 @@ To use Guess The Word, simply clone or download the repository to your local mac
 ```
 Once the repository is downloaded, you can simply open the `index.html` file in your browser to play the game.
 
-Usage
-To play the game, simply open the index.html file in your browser. The game will start with a randomly selected word from the pre-defined list of words. The word will be displayed as underscores, with each underscore representing a letter in the word. The player can enter a letter in the input field and click the "Guess" button to submit their guess. If the letter is correct, it will be added to the corresponding underscore in the word. If the letter is incorrect, the incorrect letter counter will be incremented, and the player will lose the game if they exceed the maximum allowed incorrect guesses.
+## Usage
+To play the game, simply open the `index.html` file in your browser. The game will start with a randomly selected word from the pre-defined list of words. The word will be displayed as underscores, with each underscore representing a letter in the word. The player can enter a letter in the input field and click the "Guess" button to submit their guess. If the letter is correct, it will be added to the corresponding underscore in the word. If the letter is incorrect, the incorrect letter counter will be incremented, and the player will lose the game if they exceed the maximum allowed incorrect guesses.
 
 Once the player has guessed the word correctly, a message will be displayed congratulating them, and they will have the option to restart the game by clicking the "Play Again" button.
 
