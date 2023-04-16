@@ -20,7 +20,7 @@ To play the game, simply open the `index.html` file in your browser. The game wi
 
 Once the player has guessed the word correctly, a message will be displayed congratulating them, and they will have the option to restart the game by clicking the "Play Again" button.
 
-Customization
+## Customization
 Guess The Word comes with a pre-defined list of words that can be easily modified or extended. Simply open the js/words.js file and add or remove words from the list to change the set of words that can be guessed.
 
 Future Improvements
