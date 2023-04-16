@@ -10,9 +10,9 @@ Guess The Word is a simple word guessing game built with HTML, CSS, and JavaScri
 ## Installation
 To use Guess The Word, simply clone or download the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/iammeliaskhan/GuessTheWord.git
+```bash
+    git clone https://github.com/iammeliaskhan/GuessTheWord.git
+```
 Once the repository is downloaded, you can simply open the index.html file in your browser to play the game.
 
 Usage
