@@ -23,11 +23,11 @@ Once the player has guessed the word correctly, a message will be displayed cong
 ## Customization
 Guess The Word comes with a pre-defined list of words that can be easily modified or extended. Simply open the `js/words.js` file and add or remove words from the list to change the set of words that can be guessed.
 
-Future Improvements
+## Future Improvements
 Some potential areas for improvement in Guess The Word include:
 
-Adding a timer to the game to add a sense of urgency
-Implementing a difficulty level setting to allow players to choose the difficulty of the game
-Adding a feature to allow players to input their own words to guess
-Credits
+- Adding a timer to the game to add a sense of urgency
+- Implementing a difficulty level setting to allow players to choose the difficulty of the game
+- Adding a feature to allow players to input their own words to guess
+## Credits
 Guess The Word was developed by Elias Khan as a personal project. The list of pre-defined words was sourced from various online sources.
